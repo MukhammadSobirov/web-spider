@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "mkdirp": "^3.0.1",
+    "request": "^2.88.2"
+  }
 }
